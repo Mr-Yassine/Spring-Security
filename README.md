@@ -24,7 +24,7 @@ I will create a Spring Boot Application that uses JWT authentication to protect 
 
 ![image](https://user-images.githubusercontent.com/85122412/164738369-75c91f1b-23c1-4e28-a21a-60656edab8cf.png)
 * Add Spring Security and JWT dependencies
-* Provide secret key in propreties file. we provided the secret key used by the hashing algorithm . JWT combined this secret key with header and payload data. "jwt.secret=techgeeknext"
+* Provide secret key in propreties file. we provided the secret key used by the hashing algorithm . JWT combined this secret key with header and payload data. "jwt.secret=JwtKeyName"
 
 ## Spring Security and JWT Configuration
 I will be performing 2 operation to configure spring security and to generate JWT and to validate it.
