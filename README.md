@@ -16,8 +16,8 @@ I will create a Spring Boot Application that uses JWT authentication to protect 
 ## First Steps :
 * Create Simple Spring boot with /greeting rest end point from Spring Initializer site https://start.spring.io/
 * Add dependecies
-* Create Controller with /greeting Rest api
-* Test /greeting GET Api without JWT
+* Create Controller with /api/user Rest api
+* Test /api/user GET Api without JWT
 
 ## Now will add spring security and JWT into our project.
 * Project Structure
